@@ -17,7 +17,8 @@ Use sample_values as the values for the bar chart.
 Use otu_ids as the labels for the bar chart.
 Use otu_labels as the hovertext for the chart.
 
-image.png
+<img width="769" alt="image" src="https://github.com/Dhawanpreetk/bellybutton-challenge/assets/130263833/e8d5db82-b0af-4b76-bc25-70e499908b65">
+
 
 Create a bubble chart that displays each sample.
 Use otu_ids for the x values.
@@ -32,5 +33,5 @@ Display the sample metadata, i.e., an individual's demographic information.
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
 
+<img width="866" alt="image" src="https://github.com/Dhawanpreetk/bellybutton-challenge/assets/130263833/7fe2f8e7-fcb2-47a0-ba70-4d2302f78d08">
 
-image.png
